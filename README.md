@@ -3,10 +3,15 @@ Genetic Algorithm for Mozilla Firefox clustering
 
 
 create D:\mozilla folder
+
 create D:\mozilla\accessible
+
 create D:\mozilla\accessible\BGA
+
 copy files to BGA folders
+
 create D:\mozilla\accessible\output
+
 create D:\mozilla\accessible\output\Mojo
 copy Mozilla_accessible.rsf(domain expert file) to D:\mozilla\accessible\output\Mojo
 create D:\mozilla\accessible\output\PreRecall
